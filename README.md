@@ -22,6 +22,18 @@ Details on prerequisites and requirements for setting up the development environ
 
 Instructions on setting up the project.
 
+## 🗓️ How to Participate
+
+*(Example)*
+
+- We chat async on FaithTech Slack | [#prj-our-project][slack]
+- We meet online every Thursday at 4PM ET | [conference link][online-meeting]
+- We meet in-person every third Thursday of the month | [events calendar][inperson-meeting]
+
+[online-meeting]: https://zoom.us/
+[inperson-meeting]: https://faithtech.com/events/
+[slack]: https://faithtechhub.slack.com/archives/C7R5FM25B
+
 ## 👏 How to Contribute
 
 Details on how to get involved with the project.
